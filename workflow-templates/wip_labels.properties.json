@@ -1,0 +1,4 @@
+{
+  "name": "WIP Pull Requests",
+  "description": "Fail Pull Request builds that have a 'WIP' label. Used for Jira automations."
+}
