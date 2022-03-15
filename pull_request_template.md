@@ -3,6 +3,8 @@
 - [ ] Bug fix
 - [ ] Nova feature
 - [ ] Documentação
+- [ ] Release
+- [ ] CI/CD
 
 ### Esse Pull Request adiciona a seguinte feature:
 
