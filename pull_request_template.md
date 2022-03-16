@@ -5,8 +5,9 @@
 - [ ] Documentação
 - [ ] Release
 - [ ] CI/CD
+- [ ] UI/UX
 
-### Esse Pull Request adiciona a seguinte feature:
+### Esse Pull Request realiza a seguinte alteração:
 
 ---
 
