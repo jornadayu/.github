@@ -1,7 +1,7 @@
 ### Tasks
 
 - [ ] Preenchi o Assignee do Pull Request
-- [ ] Preenchi o(s) Reviewer(s) do Pull Request
+- [ ] Preenchi o(s) Reviewer(s) do Pull Request (em branco caso não tenha um específico)
 - [ ] Realizei self-review do meu Pull Request localmente e pelo GitHub
 - [ ] Preenchi a(s) label(s) do Pull Request
   > Ex.: `enhancement` / `bug` / `CI/CD`. Utilize a label `WIP` para Pull Requests incompletos
