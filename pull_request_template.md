@@ -4,7 +4,7 @@
 - [ ] Preenchi o(s) Reviewer(s) do Pull Request (em branco caso não tenha um específico)
 - [ ] Realizei self-review do meu Pull Request localmente e pelo GitHub
 - [ ] Preenchi a(s) label(s) do Pull Request
-  > Ex.: `enhancement` / `bug` / `CI/CD`. Utilize a label `WIP` para Pull Requests incompletos
+  > Ex.: `enhancement` / `bug` / `CI/CD`
   
 > Evite Pull Requests com múltiplos objetivos (criar uma feature e corrigir um bug no mesmo Pull Request por exemplo)
 
